@@ -1,0 +1,53 @@
+{
+  "//1": "Bot By sajad4syr YT",
+  "//2": "Bot By sajad4syr YT",
+  "//3": "Bot By sajad4syr YT",
+  "name": "Bot By sajad4syr YT",
+  "version": "1.0.0",
+  "description": "Bot By sajad4syr YT",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.0.3",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "ffprobe-static": "^3.0.0",
+    "figlet": "^1.5.0",
+    "get-youtube-id": "^1.0.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "table": "^6.0.4",
+    "youtube-info": "^1.3.2",
+    "ytdl-core": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://replit.com/@sajad4syr/Music-Bot-By-sajad4syr"
+  },
+  "debug": {
+    "url": "https://replit.com/@sajad4syr/Music-Bot-By-sajad4syr",
+    "packages": "https://replit.com/@sajad4syr/Music-Bot-By-sajad4syr"
+  },
+  "keywords": [
+    "sajad4syr",
+    "sajad4syr",
+    "Repl",
+    "Youtube"
+  ],
+  "author": [
+    "sajad4syr",
+    "sajad4syr"
+  ],
+  "license": "ISC"
+}
